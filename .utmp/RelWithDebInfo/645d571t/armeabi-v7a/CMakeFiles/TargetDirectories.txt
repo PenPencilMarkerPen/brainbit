@@ -1,0 +1,8 @@
+/Users/sadygsadygov/Govno/.utmp/RelWithDebInfo/645d571t/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/sadygsadygov/Govno/.utmp/RelWithDebInfo/645d571t/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/sadygsadygov/Govno/.utmp/RelWithDebInfo/645d571t/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+/Users/sadygsadygov/Govno/.utmp/RelWithDebInfo/645d571t/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/sadygsadygov/Govno/.utmp/RelWithDebInfo/645d571t/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/sadygsadygov/Govno/.utmp/RelWithDebInfo/645d571t/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/sadygsadygov/Govno/.utmp/RelWithDebInfo/645d571t/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/sadygsadygov/Govno/.utmp/RelWithDebInfo/645d571t/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0DA72CE5-9446-0E77-5405-D60C09EAAD2E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BuilderPostProcessor.cs">
+    <Files>
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="11" Column="70" />
+      <File FileName="Assets/Scripts/Danko.cs" Line="114" Column="54" />
+      <File FileName="Assets/Scripts/Tesr.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BuilderPostProcessor.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f696ddc6-c2ce-4455-910e-331cffa46f92" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
